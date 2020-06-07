@@ -1,5 +1,5 @@
 # Vario-Treuil
-Lecture au treuil du taux de montée du parapente en treuillage.
+Transmission au treuil du taux de montée du parapente en cours de treuillage.
 
 Fournir au treuilleur ou au conducteur
 =====================================
@@ -7,7 +7,6 @@ Fournir au treuilleur ou au conducteur
 - La hauteur du parapente / sol (QFE)
 - Le nombre de tour de bobine dévidé
 - La vitesse GPS du véhicule
-
 
 Principe de fonctionnement
 ==========================
